@@ -9,7 +9,7 @@ const BASE_RADIUS = CANVAS_WIDTH / 10;
 const SIGNAL_LOCATION_OFFSET = 300;
 
 // Amount of circles 
-const N = 5;
+const N = 10;
 
 // Variables used at runtime 
 let time = 0;
